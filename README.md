@@ -3,7 +3,7 @@
   Hello there! I'm Roman Talman
 </h1>
 
-<h4 align="left">I'm a Frontend Developer who has a results-focused attitude to creating SPA, using React/Redux, TypeScript</h4>
+<h4 align="left">I'm a Frontend Developer who has a results-focused attitude to creating SPA, using React/Redux, TypeScript, Angular</h4>
 
 <br/>
 
@@ -67,12 +67,18 @@
   <tr>
     <td align="center" width="96">
       <a href="#talman-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="48" height="48" alt="Angular"/>
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="#talman-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="48" height="48" alt="Socket.IO"/>
       </a>
       <br>Socket.IO
     </td>
   </tr>
-</table
+</table>
 
 <blockquote>
   <p dir="auto">General</p>
@@ -138,7 +144,5 @@
 ### 📫 How to reach me:
 
 [<img alt="roman talman telegram" src="https://img.shields.io/badge/-telegram-0273B2?style=for-the-badge&logo=telegram" />][telegram]
-[<img alt="roman talman vk" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=VK&logoColor=white" />][vk]
 
 [telegram]: https://t.me/RomanTalman
-[vk]: https://vk.com/id77496250
